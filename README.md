@@ -19,7 +19,7 @@ This is a simple Python program that functions as a simple calculator. It allows
 ## Requirements
 
 - Python 3.x
-
+s
 ## Installation
 
 1. **Clone the repository**:
