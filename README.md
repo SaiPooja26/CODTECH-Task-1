@@ -1,8 +1,13 @@
 Name: SAI POOJA LINGAMPALLY
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS326
+
 Domain: Python
+
 Duration: May to June 2024
+
 Mentor: SRAVANI
 
 # Simple Calculator
