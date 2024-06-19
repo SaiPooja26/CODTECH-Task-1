@@ -24,7 +24,8 @@ s
 
 1. **Clone the repository**:
     ```sh
-   https://github.com/SaiPooja26/CODTECH-Task-1/tree/main
+   git clone <https://github.com/SaiPooja26/CODTECH-Task-1>
+
     ```
 
 2. **Run the calculator**:
